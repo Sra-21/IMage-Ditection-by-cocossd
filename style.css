@@ -1,0 +1,20 @@
+.heading{
+
+width: 75%;
+}
+
+#coco{
+font-size: 30px;
+}
+
+.btn-default{
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+    background-color: chartreuse;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
